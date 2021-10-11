@@ -1,0 +1,1 @@
+/Users/kasimtj/rust/Rustlings/target/debug/tests-8269e5fd49279f9b: /Users/kasimtj/rust/Rustlings/Understanding\ Ownership/Move\ Semantics/Mutable\ Argument/src/main.rs /Users/kasimtj/rust/Rustlings/Understanding\ Ownership/Move\ Semantics/Mutable\ Argument/tests/tests.rs

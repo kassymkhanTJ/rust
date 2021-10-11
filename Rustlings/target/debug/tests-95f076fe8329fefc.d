@@ -1,0 +1,1 @@
+/Users/kasimtj/rust/Rustlings/target/debug/tests-95f076fe8329fefc: /Users/kasimtj/rust/Rustlings/Common\ Programming\ Concepts/Functions/Passing\ an\ Argument/src/main.rs /Users/kasimtj/rust/Rustlings/Common\ Programming\ Concepts/Functions/Passing\ an\ Argument/tests/tests.rs

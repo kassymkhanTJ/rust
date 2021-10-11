@@ -1,0 +1,1 @@
+/Users/kasimtj/rust/Rustlings/target/debug/tests-88cca5f42661f6e7: /Users/kasimtj/rust/Rustlings/Modules\ and\ Macros/Macros/Outside\ of\ Module/src/main.rs /Users/kasimtj/rust/Rustlings/Modules\ and\ Macros/Macros/Outside\ of\ Module/tests/tests.rs

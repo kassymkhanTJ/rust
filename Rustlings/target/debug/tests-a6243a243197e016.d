@@ -1,0 +1,1 @@
+/Users/kasimtj/rust/Rustlings/target/debug/tests-a6243a243197e016: /Users/kasimtj/rust/Rustlings/Introduction/Getting\ started/Hello\ World/src/main.rs /Users/kasimtj/rust/Rustlings/Introduction/Getting\ started/Hello\ World/tests/tests.rs

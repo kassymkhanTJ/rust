@@ -1,0 +1,1 @@
+/Users/kasimtj/rust/Rustlings/target/debug/tests-16235b133e6671ce: /Users/kasimtj/rust/Rustlings/Modules\ and\ Macros/Macros/Calling\ a\ Macro/src/main.rs /Users/kasimtj/rust/Rustlings/Modules\ and\ Macros/Macros/Calling\ a\ Macro/tests/tests.rs

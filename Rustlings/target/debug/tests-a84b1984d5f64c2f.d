@@ -1,0 +1,1 @@
+/Users/kasimtj/rust/Rustlings/target/debug/tests-a84b1984d5f64c2f: /Users/kasimtj/rust/Rustlings/Common\ Programming\ Concepts/Data\ Types/Tuple\ Index/src/main.rs /Users/kasimtj/rust/Rustlings/Common\ Programming\ Concepts/Data\ Types/Tuple\ Index/tests/tests.rs

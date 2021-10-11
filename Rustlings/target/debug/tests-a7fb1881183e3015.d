@@ -1,0 +1,1 @@
+/Users/kasimtj/rust/Rustlings/target/debug/tests-a7fb1881183e3015: /Users/kasimtj/rust/Rustlings/Common\ Collections/Strings/String\ Slice/src/main.rs /Users/kasimtj/rust/Rustlings/Common\ Collections/Strings/String\ Slice/tests/tests.rs

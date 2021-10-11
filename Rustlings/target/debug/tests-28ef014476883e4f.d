@@ -1,0 +1,1 @@
+/Users/kasimtj/rust/Rustlings/target/debug/tests-28ef014476883e4f: /Users/kasimtj/rust/Rustlings/Understanding\ Ownership/Move\ Semantics/Mutable/src/main.rs /Users/kasimtj/rust/Rustlings/Understanding\ Ownership/Move\ Semantics/Mutable/tests/tests.rs

@@ -1,0 +1,1 @@
+/Users/kasimtj/rust/Rustlings/target/debug/tests-d1b89a8a74760e10: /Users/kasimtj/rust/Rustlings/Common\ Programming\ Concepts/Data\ Types/Slices/src/main.rs /Users/kasimtj/rust/Rustlings/Common\ Programming\ Concepts/Data\ Types/Slices/tests/tests.rs

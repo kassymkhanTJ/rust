@@ -1,0 +1,1 @@
+/Users/kasimtj/rust/Rustlings/target/debug/tests-11ae89c2afa93224: /Users/kasimtj/rust/Rustlings/Common\ Programming\ Concepts/Variables/Variables\ 1/src/main.rs /Users/kasimtj/rust/Rustlings/Common\ Programming\ Concepts/Variables/Variables\ 1/tests/tests.rs

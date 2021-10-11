@@ -1,0 +1,1 @@
+/Users/kasimtj/rust/Rustlings/target/debug/tests-c102885b50edcf44: /Users/kasimtj/rust/Rustlings/Common\ Programming\ Concepts/Functions/Return\ Type/src/main.rs /Users/kasimtj/rust/Rustlings/Common\ Programming\ Concepts/Functions/Return\ Type/tests/tests.rs

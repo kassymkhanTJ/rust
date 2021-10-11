@@ -1,0 +1,1 @@
+/Users/kasimtj/rust/Rustlings/target/debug/tests-260a3a3802aeef42: /Users/kasimtj/rust/Rustlings/Common\ Collections/Strings/Returning\ a\ String/src/main.rs /Users/kasimtj/rust/Rustlings/Common\ Collections/Strings/Returning\ a\ String/tests/tests.rs

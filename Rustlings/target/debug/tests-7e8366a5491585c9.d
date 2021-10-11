@@ -1,0 +1,1 @@
+/Users/kasimtj/rust/Rustlings/target/debug/tests-7e8366a5491585c9: /Users/kasimtj/rust/Rustlings/Modules\ and\ Macros/Macros/Declaring\ a\ Macro/src/main.rs /Users/kasimtj/rust/Rustlings/Modules\ and\ Macros/Macros/Declaring\ a\ Macro/tests/tests.rs

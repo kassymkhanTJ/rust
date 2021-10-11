@@ -1,0 +1,1 @@
+/Users/kasimtj/rust/Rustlings/target/debug/tests-a8333793897baf2b: /Users/kasimtj/rust/Rustlings/Common\ Programming\ Concepts/Data\ Types/Boolean/src/main.rs /Users/kasimtj/rust/Rustlings/Common\ Programming\ Concepts/Data\ Types/Boolean/tests/tests.rs

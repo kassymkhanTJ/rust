@@ -1,0 +1,1 @@
+/Users/kasimtj/rust/Rustlings/target/debug/tests-84273e281def3e52: /Users/kasimtj/rust/Rustlings/Common\ Programming\ Concepts/Variables\ and\ Functions\ Test/Calculate\ Price/src/lib.rs /Users/kasimtj/rust/Rustlings/Common\ Programming\ Concepts/Variables\ and\ Functions\ Test/Calculate\ Price/tests/tests.rs
